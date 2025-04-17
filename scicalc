@@ -40,7 +40,7 @@ def log10(x):
 	
 	return math.log10(x)
 
-def divide(numerator, denominator)
+def divide(numerator, denominator):
 	if denominator == 0 
 		raise ZeroDivisionError("Cannot divide by zero")
 	return numerator / denominator
